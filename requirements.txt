@@ -1,0 +1,10 @@
+joblib==0.17.0
+annoy==1.17.0
+tqdm==4.50.2
+pandas==0.25.3
+pandarallel==1.5.1
+numpy==1.19.2
+multitasking==0.0.9
+gensim==3.8.3
+lightgbm==3.0.0
+scikit_learn==0.24.0
